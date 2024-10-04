@@ -1,0 +1,30 @@
+body{
+  background-image: url("/images/background\ str.jpeg.jpg");
+  background-size: cover; 
+  background-color: center;
+background-attachment: repeat;
+
+  background-color: rgb(59, 129, 219);
+    selector {
+        property: value;
+      }
+      
+      body {
+        background-color: rgba(50, 197, 207, 0.822);
+      }
+      
+      .class-name {
+        property: value;
+      }
+      
+      #id {
+        property: value;
+      }
+        
+}
+
+p{
+  background-color: white;
+
+}
+
